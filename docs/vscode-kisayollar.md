@@ -1,14 +1,16 @@
 # VS Code Sik Kullanilan Kisayollar
 
-## Genel
+## Favoriler
 
 | Kisayol | Islem |
 |---------|-------|
 | `Ctrl+Shift+P` | Command Palette (tum komutlara erisim) |
 | `Ctrl+P` | Dosya arama (Quick Open) |
+| `Alt+Z` | Kelime bol / Word Wrap (uzun satirlari ekrana sigdir) |
 | `Ctrl+,` | Ayarlar (Settings) |
 | `` Ctrl+` `` | Terminal ac/kapat |
 | `Ctrl+B` | Sidebar ac/kapat |
+| `Ctrl+Alt+B` | Chat ac/kapat |
 | `Ctrl+W` | Aktif sekmeyi kapat |
 | `Ctrl+Shift+N` | Yeni pencere |
 
