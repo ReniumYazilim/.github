@@ -1,4 +1,4 @@
-# VS Code Sik Kullanilan Kisayollar
+# VS Code Sık Kullanılan Kısayollar
 
 ## Favoriler
 
@@ -11,7 +11,7 @@
 | `` Ctrl+` `` | Terminal ac/kapat |
 | `Ctrl+B` | Sidebar ac/kapat |
 | `Ctrl+Alt+B` | Chat ac/kapat |
-| `Ctrl+W` | Aktif sekmeyi kapat |
+| `Ctrl+N` | Yeni Sekme |
 | `Ctrl+Shift+N` | Yeni pencere |
 
 ## Pencere ve Goruntuleme
